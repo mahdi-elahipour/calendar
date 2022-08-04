@@ -13,14 +13,6 @@ li {
     list-style-type: none;
 }
 
-header {
-    font-size: 3rem;
-    color: black;
-    text-align: center;
-    padding: 25px 0;
-    border-bottom: 2px solid gray;
-}
-
 .wrapper {
     display: flex;
     flex-direction: column;
